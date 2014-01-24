@@ -1,11 +1,12 @@
 YCAM_WORKSPACE_DOCS  
 ===================  
-This Repository is for DOCS of YCAM WORKSPACE.    
-このリポジトリは,YCAM WORKSPACEのDOCS用です.    
-
 
 Welcome to the YCAM_WORKSPACE_DOCS wiki!    
 https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki  
+
+This Repository is for DOCS related to YCAM WORKSPACE.    
+このリポジトリは,YCAM WORKSPACEのDOCS用です.    
+
 
 免責事項:  
 このドキュメントは、試行錯誤しながらノウハウを蓄積、共有する事を目的としています  。
