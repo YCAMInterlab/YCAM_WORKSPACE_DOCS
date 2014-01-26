@@ -18,10 +18,10 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 ####Replicator2xことはじめ(1)    
 https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ(1)  
 
-####Replicator2xことはじめ(2)  
+####Replicator2xことはじめ(2)トラブルシューティングとtips 
 https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ(2)トラブルシューティングとtips  
 
-####Replicator2xことはじめ(3)  
+####Replicator2xことはじめ(3)事例  
 https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ(3)事例  
 
 
