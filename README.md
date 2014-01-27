@@ -48,6 +48,6 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 #####[YCAMサマースクールで制作したプログラムの公開についての同意書(プログラム用!)](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作したプログラムの公開についての同意書)
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS" property="cc:attributionName" rel="cc:attributionURL">Yosuke Sakai, Tasuku Mizuno</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMサマースクールでの成果公開の同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS" property="cc:attributionName" rel="cc:attributionURL">Yosuke Sakai, Tasuku Mizuno, Kiyoshi Suganuma</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMサマースクールでの成果公開の同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 　
