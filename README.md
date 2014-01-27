@@ -40,13 +40,13 @@ https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじ
 ここで、参加者によって生み出された成果物を、第三者が2次利用可能なかたちで、ウェブサイト上などで公開していきたいと考え、こうした公開についての同意書を作成し、使用しました。この同意書を公開します。  
 
 
-####[YCAMサマースクールでの成果公開の同意書について](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールでの成果公開の同意書について)
+#####[YCAMサマースクールでの成果公開の同意書について](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールでの成果公開の同意書について)
 
   
-####[YCAMサマースクールで制作した作品の公開についての同意書(プログラムを除く!)](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作した作品の公開についての同意書)  
+#####[YCAMサマースクールで制作した作品の公開についての同意書(プログラムを除く!)](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作した作品の公開についての同意書)  
 
   
-####[YCAMサマースクールで制作したプログラムの公開についての同意書(プログラム用!)](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作したプログラムの公開についての同意書)
+#####[YCAMサマースクールで制作したプログラムの公開についての同意書(プログラム用!)](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作したプログラムの公開についての同意書)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS" property="cc:attributionName" rel="cc:attributionURL">Yosuke Sakai, Tasuku Mizuno</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMサマースクールでの成果公開の同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
