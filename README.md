@@ -40,6 +40,10 @@ http://10th.ycam.jp/term1/483/
 
 ここで、参加者によって生み出された成果物を、第三者が2次利用可能なかたちで、ウェブサイト上などで公開していきたいと考え、こうした公開についての同意書を作成し、使用しました。この同意書を公開します。  
 
+
+####YCAMサマースクールでの成果公開の同意書について
+https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールでの成果公開の同意書について
+
   
 ####YCAMサマースクールで制作した作品の公開についての同意書(プログラムを除く!)  
 https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/YCAMサマースクールで制作した作品の公開についての同意書  
