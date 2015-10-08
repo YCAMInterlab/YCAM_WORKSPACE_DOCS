@@ -11,6 +11,14 @@ http://creativecommons.org/publicdomain/zero/1.0/deed.ja
 このようなしくみを用いて自分のあそびや作品を公開すれば、より多くの人に自分のあそびや作品が届くようになり、他の人が自分のあそびや作品を利用して、新たなあそびや作品を生み出して行くことができるようになります。  
 
 
+  
+　  
+　
+
+
+　
+　
+
 
 -
 
@@ -32,9 +40,23 @@ http://creativecommons.org/publicdomain/zero/1.0/deed.ja
 
 
 
+　
+　
+
+
+　
+　
 
 
 
+
+
+
+
+
+
+　
+　
 
 
 
