@@ -20,7 +20,7 @@ http://creativecommons.org/publicdomain/zero/1.0/deed.ja
 　
 
 
--
+---
 
 #ThinkThingsで制作した「あそび」の公開についての同意書
 
