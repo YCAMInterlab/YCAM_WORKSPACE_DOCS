@@ -22,7 +22,7 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 
 　
 　
-###[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School.md)    
+###[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School.md)    
 
   
 2013年、YCAMは広く市民が参加できる、メディアテクノロジーやパーソナルファブリケーションに関するワークショップシリーズ"YCAMサマースクール"を開催しました。「デジタルクラフト」、「映像制作」、「サウンド制作」、「モジュローブ」、「デザイン」、「プログラミング」などのワークショップを行いました。    
