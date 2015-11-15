@@ -16,7 +16,7 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 
 ###[Replicator2xことはじめ](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ)  
   
-2013年4月、山口情報芸術センター[YCAM]でMakerbot Replicator2xが導入されました。このドキュメントは、Makerbot Replicator2xの導入と運用に関連するもので、導入マニュアル、トラブルシューティングとTIPS、利用事例などで構成されています。
+2013年4月、山口情報芸術センター[YCAM]で3DプリンタのMakerbot Replicator2xが導入されました。このドキュメントは、Makerbot Replicator2xの導入と運用に関連するもので、導入マニュアル、トラブルシューティングとTIPS、利用事例などで構成されています。
   
 
 
