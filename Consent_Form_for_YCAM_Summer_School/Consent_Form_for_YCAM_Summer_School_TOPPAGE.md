@@ -29,7 +29,6 @@
 　  
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS" property="cc:attributionName" rel="cc:attributionURL">Yosuke Sakai, Tasuku Mizuno, Kiyoshi Suganuma</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMサマースクールでの成果公開の同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。  
 なお、本ライセンス8.c.の規定にしたがい、本ライセンス3.a.に規定する【表示】に関する条件または権利を明示的に放棄いたします。したがいまして、本同意書の派生物をつくる方は、本ライセンスが求める権利者名の表示を行わないでも、本同意書を利用することができます。  
-  
 それぞれのイベントで使用する場合には、それぞれのイベントに合わせて改変し、その結果を公開する場合には、同じライセンスの元で公開してください。また、改変の際には可能なかぎりGitHub上でforkし、派生関係がわかるようにしてください。公開の際には可能な限り権利者名の表示をしてください。  
 
 　    
