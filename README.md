@@ -14,15 +14,14 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 　
 　
 
-###[Replicator2xことはじめ](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ)  
+### [Replicator2xことはじめ](https://github.com/yosukesakai/YCAM_WORKSPACE_DOCS/wiki/Replicator2xことはじめ)  
   
 2013年4月、山口情報芸術センター[YCAM]で3DプリンタのMakerbot Replicator2xが導入されました。このドキュメントは、Makerbot Replicator2xの導入と運用に関連するもので、導入マニュアル、トラブルシューティングとTIPS、利用事例などで構成されています。
   
 
 
 　
-　
-###[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_TOPPAGE.md)    
+### [YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_TOPPAGE.md)    
 
   
 2013年、YCAMは広く市民が参加できる、メディアテクノロジーやパーソナルファブリケーションに関するワークショップシリーズ"YCAMサマースクール"を開催しました。「デジタルクラフト」、「映像制作」、「サウンド制作」、「モジュローブ」、「デザイン」、「プログラミング」などのワークショップを行いました。    
@@ -35,8 +34,7 @@ This Repository is for DOCS related to YCAM WORKSPACE.
 
 
 　
-　
-###[ThinkThingsで制作した「あそび」の公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_Think_Things/Consent_Form_for_Think_Things_TOPPAGE.md)  
+### [ThinkThingsで制作した「あそび」の公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_Think_Things/Consent_Form_for_Think_Things_TOPPAGE.md)  
 
 2015年にYCAMが実施した"Think Things―「もの」と「あそび」の生態系"は、新たな学びや創造の場を生み出す参加型展覧会です。   
 展覧会そのものを開かれた「実験と創造の場」と捉え、来場者自身がYCAMの研究開発のサイクルに参加する仕組みづくりを目指します。人間の最も根源的かつ創造的な行為「あそび」と、それを引き出す「もの」の関係性をテーマの中心に据え、会期中におこる様々なイベントやワークショップを通じて、人から人へ、あそびのアイデア自体が流動的に循環していく生態系を来場者とともにつくりあげます。
