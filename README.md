@@ -49,4 +49,12 @@ Think Thingsでは来場者によって生みだされたオリジナルの「�
 (この同意書は、弁護士の水野祐さんの協力のもと作成されました。)            
 
 
+### [2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)
+
+山口情報芸術センター[YCAM]では、2015年よりYCAM Sports Research Projectを進めており、その一環として2015 YCAM Sports Hackathon が実施されます。  
+  
+「YCAM Sports Hackathon の参加者のための同意書」は、2015 YCAM Sports Hackathonの参加者が利用するために制作されました。ここで作り出された新たなスポーツは、未来の山口の運動会で実施されます。  
+  
+ここで制作された成果の一部は、ウェブサイト (2015 YCAM スポーツハッカソン 山口の未来の運動会)で公開されました。  
+
   
