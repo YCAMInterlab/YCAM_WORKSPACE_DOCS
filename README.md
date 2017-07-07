@@ -47,8 +47,10 @@ Think Thingsでは来場者によって生みだされたオリジナルの「�
 
 まるで進化しつづけるあそびの図書館のように、この「あそログ」の制作や引き出しを通して、あそびという知恵を来場者全員で創造することを目指しています。参加者が制作したあそログを、主催者がCC0やクリエイティブ・コモンズ・ライセンスなどを用いて公開できるとする同意書を作成し、使用しました。この同意書を公開します。  
 (この同意書は、弁護士の水野祐さんの協力のもと作成されました。)            
-
-
+ 
+ 
+ 
+ 
 ### [2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)
 
 山口情報芸術センター[YCAM]では、2015年よりYCAM Sports Research Projectを進めており、その一環として2015 YCAM Sports Hackathon が実施されます。  
