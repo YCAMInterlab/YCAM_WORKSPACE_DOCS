@@ -1,4 +1,4 @@
-#YCAMサマースクールでの成果公開の同意書
+# YCAMサマースクールでの成果公開の同意書
 　  
 
 2013年、YCAMは広く市民が参加できる、メディアテクノロジーやパーソナルファブリケーションに関するワークショップシリーズ"YCAMサマースクール"を開催しました。「デジタルクラフト」、「映像制作」、「サウンド制作」、「モジュローブ」、「デザイン」、「プログラミング」などのワークショップを行いました。    
@@ -11,13 +11,13 @@
   
   
 
-#####[YCAMサマースクールでの成果公開の同意書について](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_ABOUT.md)
+##### [YCAMサマースクールでの成果公開の同意書について](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_ABOUT.md)
 
   
-#####[1. YCAMサマースクールで制作した作品の公開についての同意書(一般用:プログラムを除く!)](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_GENERAL.md)  
+##### [1. YCAMサマースクールで制作した作品の公開についての同意書(一般用:プログラムを除く!)](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_GENERAL.md)  
 
   
-#####[2. YCAMサマースクールで制作したプログラムの公開についての同意書(ソフトウェア用)](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_SOFTWARE.md)
+##### [2. YCAMサマースクールで制作したプログラムの公開についての同意書(ソフトウェア用)](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_SOFTWARE.md)
 
 
 　  
